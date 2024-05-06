@@ -3,6 +3,8 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 Project/Assets/Oculus/
+Project/Assets/Assets/
+
 
 /[Ll]ibrary/
 /[Tt]emp/
